@@ -7,7 +7,7 @@ El sistema puede emplearse de dos modos:
 * Entrenamiento
 * Transcripción
 
-Es importante descargar el folder principal junto al folder secundario data (el cual contiene los datos de entrenamiento y prueba). 
+Primero es necesario descargar el folder del proyecto general que contiene el resto de folders (el cual contiene los datos de entrenamiento y prueba). 
 
 El proyecto funciona adecuadamente con la versión de MATLAB R2018a.
 
