@@ -13,8 +13,10 @@ El proyecto funciona adecuadamente con la versión de MATLAB R2018a y se apoya e
 
 1. Primero es necesario descargar el folder del proyecto general que contiene el resto de folders. 
 2. Colocar los folders de **programa principal** y **data** en la ruta de programas de MATLAB.
-3. Agregar los folders de **AuditoryToolbox Modificado** y **matlab-midi-master** al path de toolbox de MATLAB.
-
+3. Agregar los folders de **AuditoryToolbox Modificado** y **matlab-midi-master** al path de toolbox de MATLAB mediante los comandos:
+  addpath ('C:\Program Files\MATLAB\R2022a\toolbox\matlab-midi-master\src'
+  addpath ('C:\Program Files\MATLAB\R2022a\toolbox\AuditoryToolbox Modificado'
+  
 ## Modo transcripción
 
 Si deseas transcribir canciones con modelos preentrenados puedes hacer uso de la función transcripcion.m
@@ -34,7 +36,5 @@ Si deseas entrenar un modelo NMF puedes hacerlo mediante la funcion Entrenamient
 En ella podrás elegir con que archivos de notas aisladas entrenar el modelo NMF, así como que técnica de representación de la señal de música, por defecto se implementa la FFT como inicialización del espectro de cada nota en la matriz W.
 
 Existen diferentes configuraciones si deseas aplicar el banco de filtros propuesto al espectro.
-
-
 
 
