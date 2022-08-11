@@ -7,7 +7,7 @@ El sistema puede emplearse de dos modos:
 * Entrenamiento
 * Transcripción
 
-El proyecto funciona adecuadamente con la versión de MATLAB R2018a y se apoya en el uso de las librerías de NMF Toolbox y Auditory Toolbox.
+El proyecto funciona adecuadamente con la versión de MATLAB R2018a y se apoya en el uso de NMF Toolbox y Auditory Toolbox.
 
 ## Configuración del entorno
 
