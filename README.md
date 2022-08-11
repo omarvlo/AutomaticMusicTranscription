@@ -12,8 +12,8 @@ El proyecto funciona adecuadamente con la versión de MATLAB R2018a.
 ## Configuración del entorno
 
 1. Primero es necesario descargar el folder del proyecto general que contiene el resto de folders. 
-2. Colocar el folder programa principal y data en la ruta de programas de MATLAB.
-3. Agregar los folders de AuditoryToolbox Modificado y matlab-midi-master al path de toolbox de MATLAB.
+2. Colocar los folders de **programa principal** y **data** en la ruta de programas de MATLAB.
+3. Agregar los folders de **AuditoryToolbox Modificado** y **matlab-midi-master** al path de toolbox de MATLAB.
 
 ## Modo transcripción
 
