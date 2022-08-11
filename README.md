@@ -1,4 +1,4 @@
-# Tutorial de uso
+# Guía de uso
 
 Este repositorio contiene las herramientas necesarias para implementar un transcriptor de música polifónica de piano empleando un modelo NMF (non-negative matrix factorization) y un banco de filtros auditivos al espectro de la señal de música (matriz W).
 
